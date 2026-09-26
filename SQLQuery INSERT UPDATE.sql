@@ -1,0 +1,5 @@
+ SELECT TOP (1000) [PID]
+      ,[FullName]
+      ,[Age]
+      ,[DeptID]
+  FROM [DataPractice].[dbo].[Professors]
